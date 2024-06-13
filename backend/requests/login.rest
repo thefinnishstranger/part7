@@ -1,0 +1,7 @@
+POST https://bloglistbackend-ffe79c80663f.herokuapp.com/api/login
+Content-Type: application/json
+
+{
+    "username": "goose",
+    "password": "oogabooga"
+}

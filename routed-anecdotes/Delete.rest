@@ -1,2 +1,0 @@
-DELETE http://localhost:3005/notes/7
-Content-Type: application/json

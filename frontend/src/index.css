@@ -1,0 +1,79 @@
+* {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.blogBlock {
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#comment_button {
+  margin-top: 10px;
+}
+
+#delete_button {
+  margin-right: 40px;
+}
+
+#like_button {
+  margin-right: 40px;
+}
+
+.navbar-brand,
+.nav-link {
+  margin-left: 20px;
+}
+
+.custom-navbar {
+  border-radius: 10px;
+}
+
+.burger {
+  margin-right: 10px;
+}
+
+.logout_button {
+  margin-bottom: 10px;
+}
+
+.create_button {
+  margin-bottom: 20px;
+}
+
+.footer {
+  margin-top: 15px;
+}
+
+.blog_text {
+  margin-top: 15px;
+}
+
+.blogs_text {
+  margin-top: 15px;
+}
+
+.custom_link {
+  color: black;
+}
+
+.custom_link:hover {
+  color: darkgray
+}
+
+.blogs_container {
+  border: 1px solid black
+}
+
+.login_button {
+  margin-top: 10px;
+}
+
+.username {
+  margin-bottom: 10px;
+}
+
+.password {
+  margin-bottom: 10px;
+}
